@@ -11,3 +11,7 @@
  - Oregano
  - Azeitonas
  - Tomates
+
+ #### Modo de preparo:
+
+ - Mistura a farinha de trigo com agua e leve esta mistura ao forno
